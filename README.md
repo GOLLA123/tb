@@ -8,7 +8,7 @@
 
 ## Problem Statement/ Opportunity: Tuberculosis is an infectious disease which is caused by bacteria. The disease is mostly transmitted from person to person, usually by inhaling bacteria-carrying air droplets. Tuberculosis most commonly affects the lungs, but it can also affect any other organ. The infection doesn`t always result in disease.
 
-## Primary Azure Technology: 1.Health Bot 2.Sttic web app
+## Primary Azure Technology: 1.Health Bot 2.Static web app
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Project Links:
